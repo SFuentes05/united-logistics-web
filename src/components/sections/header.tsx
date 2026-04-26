@@ -68,7 +68,7 @@ export function Header() {
             className="border border-ink/15 bg-white/60 text-ink/90 hover:bg-white"
           >
             <a
-              href="https://app.unitedlogistics.com.do/login"
+              href="https://app.unitedlogistics.com.do/auth/v2/login"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -111,7 +111,7 @@ export function Header() {
                 className="w-full border border-ink/15 bg-white/60"
               >
                 <a
-                  href="https://app.unitedlogistics.com.do/login"
+                  href="https://app.unitedlogistics.com.do/auth/v2/login"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setOpen(false)}
