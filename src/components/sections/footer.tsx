@@ -10,7 +10,7 @@ const NAV_GROUPS = [
         href: "/#plataforma",
       },
       { label: "Reportes", href: "/#reportes" },
-      { label: "Sala de monitoreo", href: "/#monitoreo" },
+      { label: "Centro de monitoreo", href: "/#monitoreo" },
     ],
   },
   {
@@ -37,14 +37,14 @@ export function Footer() {
             <Image
               src="/up_horizontal_logo.png"
               alt="United Logistics"
-              width={200}
-              height={44}
-              className="h-7 w-auto"
+              width={220}
+              height={48}
+              className="h-8 w-auto"
             />
             <p className="mt-5 max-w-md text-[14.5px] text-ink/60 leading-relaxed">
-              United Logistics es el partner oficial de ERM Advanced Telematics
-              en República Dominicana. Plataforma, hardware, instalación,
-              monitoreo 24/7 y analítica integral para flotas corporativas.
+              United Logistics es el Distribuidor Exclusivo de ERM Advanced
+              Telematics en RD. Plataforma, hardware, instalación, monitoreo 24/7
+              y analítica integral para flotas corporativas.
             </p>
 
             <div className="mt-6 space-y-1.5 text-sm">

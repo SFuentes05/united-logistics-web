@@ -49,7 +49,7 @@ const PILLARS: PillarConfig[] = [
   },
   {
     eyebrow: "Monitoreo 24/7",
-    title: "Sala de control humana.",
+    title: "Centro de monitoreo.",
     description:
       "Personal dedicado supervisando eventos y alertas en tiempo real.",
     bullets: [
@@ -57,7 +57,7 @@ const PILLARS: PillarConfig[] = [
       "Reglas configurables por cliente",
       "Reporte de incidencias críticas",
     ],
-    imageLabel: "Sala de monitoreo",
+    imageLabel: "Centro de monitoreo",
     imageSrc: "/sala-monitoreo.jpg",
   },
 ];
@@ -73,7 +73,8 @@ export function Pillars() {
             <span className="text-ink/50">para la gestión de flotas.</span>
           </h2>
           <p className="mt-4 text-lg text-ink/60 max-w-xl leading-relaxed">
-            Tres capas integradas: telemetría, analítica y monitoreo humano.
+            Tres capas integradas: telemetría, analítica y centro de monitoreo
+            24/7.
           </p>
         </div>
 

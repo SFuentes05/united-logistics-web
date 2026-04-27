@@ -63,8 +63,8 @@ export function Products() {
             <span className="text-ink/50">Soporte local.</span>
           </h2>
           <p className="mt-4 text-lg text-ink/60 max-w-xl leading-relaxed">
-            Partner oficial de ERM Advanced Telematics. Presencia en más de 80
-            países.
+            Distribuidor Exclusivo de ERM Advanced Telematics en RD. Presencia
+            ERM en más de 80 países.
           </p>
         </div>
 

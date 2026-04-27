@@ -13,16 +13,18 @@ export function Hero() {
               href="https://www.ermtelematics.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 rounded-full pl-2 pr-3.5 py-1 text-[11.5px] font-medium text-white/90 tracking-wide bg-gradient-to-b from-[#0c2c39] to-ink border border-white/5 shadow-[inset_0_1px_0_rgba(255,255,255,0.08),0_1px_2px_rgba(0,29,41,0.25),0_4px_10px_-4px_rgba(0,29,41,0.35)] transition-opacity hover:opacity-95"
+              className="inline-flex w-max max-w-full min-w-0 items-center gap-1.5 sm:gap-2 rounded-full pl-1.5 pr-2.5 sm:pl-2 sm:pr-3.5 py-1.5 text-left text-[9px] min-[360px]:text-[10px] sm:text-[11.5px] font-medium text-white/90 leading-none tracking-tight bg-gradient-to-b from-[#0c2c39] to-ink border border-white/5 shadow-[inset_0_1px_0_rgba(255,255,255,0.08),0_1px_2px_rgba(0,29,41,0.25),0_4px_10px_-4px_rgba(0,29,41,0.35)] transition-opacity hover:opacity-95"
             >
               <Image
                 src="/erm_logotype.png"
                 alt="ERM"
                 width={900}
                 height={900}
-                className="h-4 w-4 object-contain"
+                className="h-3.5 w-3.5 shrink-0 sm:h-4 sm:w-4 object-contain"
               />
-              Distribuidor oficial de ERM Advanced Telematics
+              <span className="whitespace-nowrap pr-0.5">
+                Distribuidor Exclusivo de ERM Advanced Telematics en RD.
+              </span>
             </Link>
           </div>
 

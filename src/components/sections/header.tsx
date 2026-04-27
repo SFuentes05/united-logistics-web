@@ -41,10 +41,10 @@ export function Header() {
           <Image
             src="/up_horizontal_logo.png"
             alt="United Logistics"
-            width={180}
-            height={40}
+            width={200}
+            height={44}
             priority
-            className="h-6 md:h-7 w-auto"
+            className="h-7 md:h-8 w-auto"
           />
         </Link>
 

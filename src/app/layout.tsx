@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     template: "%s | United Logistics",
   },
   description:
-    "Plataforma integral de gestión de flotas: telemetría GPS, control de combustible, cámaras inteligentes con IA, sala de monitoreo 24/7 y analítica avanzada para empresas en República Dominicana y el Caribe.",
+    "Plataforma integral de gestión de flotas: telemetría GPS, control de combustible, cámaras inteligentes con IA, centro de monitoreo 24/7 y analítica en RD y el Caribe. Distribuidor Exclusivo de ERM Advanced Telematics en RD.",
   keywords: [
     "telemetría vehicular",
     "gestión de flotas",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     title:
       "United Logistics | Telemetría, monitoreo y gestión de flotas en tiempo real",
     description:
-      "Visibilidad, control y analítica para flotas corporativas. Tecnología ERM + sala de monitoreo 24/7 + integraciones a la medida.",
+      "Visibilidad, control y analítica para flotas corporativas. Tecnología ERM + centro de monitoreo 24/7 + integraciones a la medida.",
     images: ["/up_horizontal_logo.png"],
   },
   icons: {

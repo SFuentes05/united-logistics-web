@@ -17,8 +17,8 @@ export function Monitoreo() {
           <div className="lg:col-span-6">
             <div className="text-sm font-medium text-azure">Monitoreo 24/7</div>
             <h2 className="mt-3 text-balance text-3xl md:text-5xl font-medium tracking-tighter text-ink leading-[1.1]">
-              Sala de control{" "}
-              <span className="text-ink/50">operada por humanos.</span>
+              Centro de monitoreo{" "}
+              <span className="text-ink/50">24/7.</span>
             </h2>
             <p className="mt-4 text-lg text-ink/60 leading-relaxed">
               Personal dedicado supervisando los eventos críticos de su flota.
@@ -53,7 +53,7 @@ export function Monitoreo() {
             <div className="relative aspect-[4/3] rounded-2xl border border-ink/10 bg-ink-50/40 overflow-hidden shadow-soft">
               <Image
                 src="/sala-monitoreo.jpg"
-                alt="Sala de monitoreo de United Logistics con operadores frente a la pared de pantallas"
+                alt="Centro de monitoreo de United Logistics con operadores frente a la pared de pantallas"
                 fill
                 className="object-cover"
                 sizes="(min-width: 1024px) 50vw, 100vw"
